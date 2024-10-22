@@ -1,0 +1,184 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.fond{
+    filter: brightness(100%);
+}
+
+body{
+        font-family: "Afacad Flux", sans-serif;
+        font-weight: 600;
+        background-image: url("https://i.redd.it/palettes-design-as-wallpaper-at-4k-res-3840-x-2160-minus-v0-0j9zkt17fny91.jpg?width=3841&format=pjpg&auto=webp&s=dff7664eea942f7b3462bbf5b4414cd7c7e4d052");
+        background-position: center;
+        background-size: cover;
+}
+
+.slider{
+    width: 100%;
+    height: 28vh;
+    position:relative;
+}
+
+.slider-content{
+    text-align: right;
+    margin-right: 5cm;
+    padding-right: 2cm;
+    font-size: 2rem;
+    position: relative;
+    top: 25px;
+    color: aliceblue;
+}
+.Description{
+    font-size: 50px;
+    margin-right: 3.5cm;
+    padding-right: 2cm;
+    text-align: right;
+    position: relative;
+    top: 18px;
+    color: aliceblue;
+}
+.photo{
+    align-content: normal;
+    border-radius: 50px;
+    filter: brightness(90%);
+    width: 8%;
+    margin: 0.4cm;
+    margin-left: 2cm;
+    position: absolute;
+}
+
+.slider-background{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(25, 25, 26);
+}
+
+.Presentation{
+    border-style: groove;
+    border-radius: 20px;
+    box-sizing: border-box;
+    box-shadow: 5px 5px 5px grey;
+    font-weight: 600;
+    width: 25%;
+    margin: 20px;
+    padding: 30px;
+    background-color: aliceblue;
+    color: black;
+}
+
+.Objectifs{
+    font-weight: 800;
+    width: 80%;
+    border-style: double;
+    border-radius: 20px;
+    box-sizing: border-box;
+    box-shadow: 5px 5px 5px grey;
+    margin: 20px;
+    padding: 30px;
+    background-color: aliceblue;
+    color: black;
+}
+
+.Experiences{
+    font-weight: 800;
+    width: 80%;
+    border-style: double;
+    border-radius: 20px;
+    box-sizing: border-box;
+    box-shadow: 5px 5px 5px grey;
+    margin: 20px;
+    padding: 30px;
+    background-color: aliceblue;
+    color: black;
+}
+
+.Formations{
+    font-weight: 800;
+    width: 80%;
+    border-style: double;
+    border-radius: 20px;
+    box-sizing: border-box;
+    box-shadow: 5px 5px 5px grey;
+    margin: 20px;
+    padding: 30px;
+    background-color: aliceblue;
+    color: black;
+}
+
+.Competences{
+    font-weight: 800;
+    width: 80%;
+    border-style: double;
+    border-radius: 20px;
+    box-sizing: border-box;
+    box-shadow: 5px 5px 5px grey;
+    margin: 20px;
+    padding: 30px;
+    background-color: aliceblue;
+    color: black;
+}
+
+.Soft{
+    font-size: 25px;
+    text-align: center;
+    margin-top: 1.3cm;
+}
+
+.softs{
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.Hard{
+    font-size: 25px;
+    margin-top: 1.3cm;
+    text-align: center;
+}
+
+
+.titre1{
+    font-size: 25px;
+}
+
+.titre2{
+    font-size: 25px;
+    text-align: center;
+}
+
+.Pied{
+    text-align: right;
+    margin-right: 1cm;
+    color: aliceblue;
+}
+
+.decaler{
+    margin-top: 20px;
+}
+
+p{
+    font-size: 20px;
+    font-weight: 350;
+}
+
+.Fin{
+    font-size: 20px;
+}
+
+h4{
+    font-size: 23px;
+}
+
+.gap{
+    gap: 25px;
+    display: flex;
+    position: relative;
+    left: 0.5cm;
+}
+
+.align3{
+    width: 30%;
+    box-sizing: border-box;
+    text-align: center;
+}
